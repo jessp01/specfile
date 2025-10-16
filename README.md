@@ -319,6 +319,6 @@ Here is a demo showcasing the `Specfile.update_tag()` method and its use cases:
 [badge-license]: https://img.shields.io/github/license/packit/specfile.svg
 [docs-badge]: https://img.shields.io/badge/documentation-3572A5
 [docs]: https://packit.dev/specfile/api/specfile
-[badge-build]: https://github.com/packit/specfile/actions/workflows/do-release.yml/badge.svg
-[build]: https://github.com/packit/specfile/actions/workflows/do-release.yml
+[badge-build]: https://softwarefactory-project.io/zuul/api/tenant/packit-service/badge?project=packit/specfile&pipeline=check
+[build]: https://softwarefactory-project.io/zuul/t/packit-service/buildsets?project=packit%2Fspecfile&pipeline=check&skip=0
 
