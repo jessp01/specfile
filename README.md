@@ -320,5 +320,5 @@ Here is a demo showcasing the `Specfile.update_tag()` method and its use cases:
 [docs-badge]: https://img.shields.io/badge/documentation-3572A5
 [docs]: https://packit.dev/specfile/api/specfile
 [badge-build]: https://github.com/packit/specfile/actions/workflows/do-release.yml/badge.svg
-[build]: https://github.com/jessp01/zaje/actions/workflows/do-release.yml
+[build]: https://github.com/packit/specfile/actions/workflows/do-release.yml
 
